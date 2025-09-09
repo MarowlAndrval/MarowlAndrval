@@ -1,4 +1,5 @@
-<h1 align="center"> <img src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif" width="45"> Web Marowl Andrval <img src="https://media.tenor.com/P2jzJOarlwYAAAAi/roblox-forsaken-roblox.gif" width="45"></h1>
+<h1 align="center"> <img src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif" width="45"> Marisol del Pilar Andres Valdez :upside_down_face: <img src="https://media.tenor.com/P2jzJOarlwYAAAAi/roblox-forsaken-roblox.gif" width="45"></h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=28&pause=1000&color=70F760&background=68D8FF00&center=true&vCenter=true&width=435&lines=Iniciando+web++;3+a%C3%B1os+programando;(programador+en+ascenso)" alt="Typing SVG" /></a>
 </p>
