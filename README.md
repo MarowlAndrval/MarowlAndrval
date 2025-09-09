@@ -27,3 +27,16 @@ Me entusiasma seguir aprendiendo y aplicar mis conocimientos en proyectos reales
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Autodesk_AutoCAD_logo.svg" width="70" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SolidWorks_Logo.png/600px-SolidWorks_Logo.png" width="70" />
 </p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Lenguaje de programacion👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
