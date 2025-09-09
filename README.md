@@ -52,9 +52,24 @@ Me entusiasma seguir aprendiendo y aplicar mis conocimientos en proyectos reales
     <summary><h2 style="display: inline-block">Cálculo matemático y simbólico :bar_chart:</h2></summary>
   </ul>
 </div>
+<!-- tech stack icons personalizados -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/m.png" width="80" alt="Maple">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/ma.png" width="80" alt="Matlab">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/mat.png" width="80" alt="Matcad">
+</p>
 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Simulación de circuitos eléctricos :zap:</h2></summary>
   </ul>
 </div>
+<!-- tech stack icons personalizados -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/p.jpg" width="90" alt="Proteus">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/mu.jfif" width="90" alt="Multisim">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/ps.png" width="80" alt="Psim">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/pl.png" width="80" alt="Plecs">
+</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&pause=1000&width=435&lines=Gracias+por+su+visita+" alt="Typing SVG" /></a>
