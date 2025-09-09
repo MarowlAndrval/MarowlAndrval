@@ -1,4 +1,4 @@
-# Marisol del Pilar Andres Valdez :upside_down_face: 
+# Marisol del Pilar Andres Valdez :upside_down_face:  
 ### aevm031104@gs.utm.mx
 
 <p align="center">
@@ -10,10 +10,20 @@
 </p>
 
 <p align="center">
-Soy estudiante de la Universidad Tecnológica de la Mixteca en la carrera de Mecatrónica, actualmente en séptimo semestre.  
-Me gusta aprender de todo un poco, especialmente cuando puedo relacionar nuevos conocimientos con información que ya conocía.  
-Considero que todo está conectado, y que es necesario tener una perspectiva amplia para poder ver esas relaciones.  
-Me interesa mucho la simulación de mecanismos, y he trabajado con programas como PSIM, Proteus, MATLAB, Maple, Mathcad, SolidWorks y AutoCAD.  
-En cuanto a programación he realizado proyectos en Lenguaje C, Java y Python.  
+Soy estudiante de la Universidad Tecnológica de la Mixteca en la carrera de Mecatrónica, actualmente en séptimo semestre.<br>
+Me gusta aprender de todo un poco, especialmente cuando puedo relacionar nuevos conocimientos con información que ya conocía.<br>
+Considero que todo está conectado, y que es necesario tener una perspectiva amplia para poder ver esas relaciones.<br>
+Me interesa mucho la simulación de mecanismos, y he trabajado con programas como PSIM, Proteus, MATLAB, Maple, Mathcad, SolidWorks y AutoCAD.<br>
+En cuanto a programación he realizado proyectos en Lenguaje C, Java y Python.<br>
 Me entusiasma seguir aprendiendo y aplicar mis conocimientos en proyectos reales que integren distintas disciplinas.
+</p>
+
+---
+
+### 🛠️ Herramientas que he usado:
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Autodesk_AutoCAD_logo.svg" width="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SolidWorks_Logo.png/600px-SolidWorks_Logo.png" width="70" />
 </p>
