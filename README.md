@@ -19,24 +19,24 @@ Me entusiasma seguir aprendiendo y aplicar mis conocimientos en proyectos reales
 </p>
 
 ---
-
-### 🛠️ Herramientas que he usado:
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="70" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Autodesk_AutoCAD_logo.svg" width="70" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SolidWorks_Logo.png/600px-SolidWorks_Logo.png" width="70" />
-</p>
-
-<!--h1 without bottom border-->
+### SOFTWARE UTILIZADO 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Lenguaje de programacion👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Lenguaje de programación 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+<!-- tech stack icons personalizados -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/c.jpg" width="60" alt="C">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/cmas.jpg" width="55" alt="C++">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/h.jpg" width="60" alt="HTML">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/ja.jpg" width="60" alt="Java">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/py.jpg" width="60" alt="Python">
 </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Diseño mecánico / CAD :hammer_and_wrench:</h2></summary>
+  </ul>
+</div>
