@@ -40,3 +40,21 @@ Me entusiasma seguir aprendiendo y aplicar mis conocimientos en proyectos reales
     <summary><h2 style="display: inline-block">Diseño mecánico / CAD :hammer_and_wrench:</h2></summary>
   </ul>
 </div>
+
+<!-- tech stack icons personalizados -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/a.jpg" width="70" alt="Autocad">
+  <img src="https://raw.githubusercontent.com/MarowlAndrval/MarowlAndrval/main/imag/s.jpg" width="80" alt="Solid Works">
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Cálculo matemático y simbólico :bar_chart:</h2></summary>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Simulación de circuitos eléctricos :zap:</h2></summary>
+  </ul>
+</div>
