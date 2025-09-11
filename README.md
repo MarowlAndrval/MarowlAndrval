@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MarowlAndrval/MarowlAndrval/blob/main/imag/vul.jpg" width="100%">
+  <img src="" width="100%">
 </p>
 
 # Marisol del Pilar Andres Valdez 👩‍💻  
