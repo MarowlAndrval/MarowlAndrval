@@ -1,17 +1,13 @@
+<p align="center">
+  <img src="https://github.com/MarowlAndrval/MarowlAndrval/blob/main/imag/vul.jpg" width="100%">
+</p>
+
 # Marisol del Pilar Andres Valdez 👩‍💻  
 
 📧 **Correo:** aevm031104@gs.utm.mx  
 
 ---
-<p align="center">
-  <img src="https://media.tenor.com/P2jzJOarlwYAAAAi/roblox-forsaken-roblox.gif" width="45">
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f2/c7/f6/f2c7f62b7cfa21d1e92088c855aa3bd4.gif" width="500">
-</p>
-
-## 👋 Bienvenido/a a mi perfil  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=300&size=41&pause=1000&color=DEF727&width=1200&lines=Bienvenido%2Fa+a+mi+perfil+de+GitHub+;Aqu%C3%AD+encontrar%C3%A1s+proyectos+%2C+pr%C3%A1cticas+;y+pruebas+de+c%C3%B3digos" alt="Typing SVG" /></a>
 Soy estudiante de la **Universidad Tecnológica de la Mixteca** en la carrera de **Ingeniería Mecatrónica**, actualmente en octavo semestre.  
 Me gusta aprender de todo un poco, especialmente cuando puedo relacionar nuevos conocimientos con información que ya conozco.  
 Considero que todo está conectado, y que es necesario tener una perspectiva amplia para poder ver esas relaciones.  
@@ -21,6 +17,7 @@ En cuanto a programación he realizado proyectos en **Lenguaje C, Java y Python*
 Me entusiasma seguir aprendiendo y aplicar mis conocimientos en proyectos reales que integren distintas disciplinas.  
 
 ---
+
 ## 🛠️ Software que utilizo  
 
 ### 🔹 Lenguajes de programación  
@@ -43,10 +40,30 @@ Me entusiasma seguir aprendiendo y aplicar mis conocimientos en proyectos reales
 
 ---
 
+## 🌟 Habilidades blandas  
+- Trabajo en equipo 🤝  
+- Resolución de problemas 🔍  
+- Comunicación efectiva 💬  
+- Aprendizaje autónomo 📚  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&pause=1000&width=435&lines=Gracias+por+su+visita+" alt="Typing SVG" /></a>
+---
+
+## 🚀 Objetivos  
+Mi meta es integrarme a proyectos multidisciplinarios que me permitan combinar programación, diseño, electrónica y simulación para desarrollar soluciones innovadoras.  
 
 
+### 📈 Estadísticas  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarowlAndrval&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarowlAndrval&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/MarowlAndrval/MarowlAndrval/blob/main/imag/vul.jpg" width="100%">
+</p>
